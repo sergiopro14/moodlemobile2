@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.sesaestudios.formacionsesaestudios" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Moodle Mobile</name>
+  <name>formacion sesaestudios</name>
   <description>App oficial de formacion sesaestudios</description>
   <author href="http://moodle.com" email="juan@moodle.com">Juan Leyva</author>
   <content src="index.html"/>
